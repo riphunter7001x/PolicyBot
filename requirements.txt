@@ -5,6 +5,7 @@ pinecone
 langchain-pinecone
 pinecone-client
 langchain_cohere
+langchain_huggingface
 ragas
 groq
 pypdf
