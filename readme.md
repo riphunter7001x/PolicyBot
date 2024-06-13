@@ -51,6 +51,8 @@ Here are the evaluation metrics for PolicyBot:
 | Context Recall       | 0.9389  |
 | Harmfulness          | 0.0000  |
 
+![result Metrics](https://your-image-url.com/result_metrics.png)  <!-- Replace with the direct URL of your result_metrics.png image -->
+
 ## Installation
 
 To run this project locally, follow these steps:
