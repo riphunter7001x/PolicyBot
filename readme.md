@@ -11,6 +11,8 @@ PolicyBot is built to help users with their car insurance questions. It uses the
 - **Hugging Face**: For embeddings and language model tasks.
 - **Pinecone**: For storing and retrieving vectorized document data.
 - **CohereRerank**: For compressing and ranking the retrieved contexts to generate meaningful responses.
+- **RAGAS (Retrieval-Augmented Generation with Assessments)**: For evaluating the performance of the generated responses based on the provided document.
+
 
 You can try the deployed app [here](https://policybot-car.streamlit.app/).
 
@@ -51,7 +53,7 @@ Here are the evaluation metrics for PolicyBot:
 | Context Recall       | 0.9389  |
 | Harmfulness          | 0.0000  |
 
-![result Metrics](https://your-image-url.com/result_metrics.png)  <!-- Replace with the direct URL of your result_metrics.png image -->
+![result Metrics](https://github.com/riphunter7001x/PolicyBot/blob/main/experiment/chart.png) 
 
 ## Installation
 
