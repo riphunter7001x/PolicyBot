@@ -39,6 +39,18 @@ RAGAS is a framework that helps you evaluate your Retrieval Augmented Generation
 - **Contexts**: The contexts passed into the LLM to answer the question.
 - **Ground Truths**: The ground truth answer to the questions.
 
+## Evaluation Metrics
+
+Here are the evaluation metrics for PolicyBot:
+
+| Metric               | Score   |
+|----------------------|---------|
+| Context Precision    | 0.9083  |
+| Faithfulness         | 0.8132  |
+| Answer Relevancy     | 0.8513  |
+| Context Recall       | 0.9389  |
+| Harmfulness          | 0.0000  |
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -84,7 +96,6 @@ To run this project locally, follow these steps:
 ## Usage
 
 Once the app is running, you can access it in your web browser at `http://localhost:8501`. Interact with PolicyBot by asking questions related to car insurance, and receive helpful responses based on the predefined document.
-
 
 ## Contact
 

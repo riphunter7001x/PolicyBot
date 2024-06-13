@@ -6,6 +6,8 @@ langchain-pinecone
 pinecone-client
 langchain_cohere
 langchain_huggingface
+langchain_openai
+openpyxl
 ragas
 groq
 pypdf

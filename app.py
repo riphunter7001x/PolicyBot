@@ -13,8 +13,8 @@ with st.sidebar:
 
 # Main title 
 # Main title with emoji
-st.title("🚗 PolicyBot")
-st.subheader(": For Your Car Insurance Inquiries")
+st.title("PolicyBot")
+st.subheader(": For Your Car 🚗 Insurance Inquiries")
 
 # Initialize chat history
 if "messages" not in st.session_state:
